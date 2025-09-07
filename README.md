@@ -1,4 +1,4 @@
-# Hi there 👋, sou Jorgito Barbosa!
+# Olá 👋, sou Jorgito Barbosa!
 ## Sejam bem-vindos ao meu Perfil.
 
 #### Sou estudante de Curso de Huamanidades pela UNILAB. Apaixonado pela tecnologia desde muito cedo. Faço atualmente o curso de Front-End da Toti, onde venho adquirindo muito conhecimento sobre o universo web. Moro no Estado da Bahia. 
